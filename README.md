@@ -1,6 +1,6 @@
 Nathan Vanson UNIGE
 
-![](img/unige-240.png)
+![](icons/unige-240.png)
 
 ### _FR_ :
 
