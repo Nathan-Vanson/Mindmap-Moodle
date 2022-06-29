@@ -1,0 +1,58 @@
+{
+    "name": "Forum",
+    "content": "Programming Course",
+    "type": "forum",
+    "children": [
+        {
+            "name": "User238490",
+            "content": "Should we use a single-page application or a web application?",
+            "type": "question"
+        },
+        {
+            "name": "User572905",
+            "content": "What is the best way to learn a new programming language?",
+            "type": "question",
+            "children": [
+                {
+                    "name": "Anon245612",
+                    "content": "The best way to learn a new programming language is to ask questions and get answers from the community.",
+                    "type": "answer"
+                },
+                {
+                    "name": "Paul Wattson",
+                    "content": "What about watching a video tutorial?",
+                    "type": "answer",
+                    "children": [
+                        {
+                            "name": "Anon445134",
+                            "content": "Not really a good idea",
+                            "type": "answer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "John Doe",
+            "content": "How do you know if a program is correct?",
+            "type":"question"
+        },
+        {
+            "name": "User289001",
+            "content": "You can check if a program is correct by running it and seeing if it prints the correct output",
+            "type":"question",
+            "children": [
+                {
+                    "name": "User467120",
+                    "content": "And if it doesn't, you can try to fix it",
+                    "type":"answer"
+                }
+            ]
+        },
+        {
+            "name": "David Rath",
+            "content": "Where do you get the most information about programming?",
+            "type":"question"
+        }
+    ]
+}
